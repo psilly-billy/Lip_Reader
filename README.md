@@ -11,7 +11,7 @@ This repository contains code for a Lip Reader application. The application uses
 - `test_video.mp4`: Sample video file for testing the lip reading model.
 - `data/`: Directory containing the training data used for training the lip reading model.
 - `model/`: Directory containing the trained model weights.
-- `training.ipynb`: Jupyter notebook documenting the training process.
+- `Lip_reading.ipynb`: Jupyter notebook documenting the training process.
 
 ## Dependencies
 
